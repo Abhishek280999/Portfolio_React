@@ -2,7 +2,7 @@ import React from "react";
 
 // import woman image
 import WomanImg from "../assets/img/banner-women2.png";
-import resume from "../assets/Abhishek_darwekar.pdf";
+import resume from "../assets/Abhishek.pdf";
 import Socials from "./Socials";
 const Hero = () => {
   return (
