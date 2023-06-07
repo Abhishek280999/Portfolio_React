@@ -2,7 +2,7 @@ import React from "react";
 
 // import img
 import Image from "../assets/img/Abhishek.jpeg";
-import resume from "../assets/Abhishek_darwekar.pdf";
+import resume from "../assets/Abhishek.pdf";
 
 const About = () => {
   return (
