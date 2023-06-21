@@ -36,10 +36,19 @@ const Projects = () => {
       Link: "https://vaibhav-dev-portfolio.netlify.app/",
       Github: "https://github.com/Abhishek280999/Protfolio.git",
     },
+       {
+      name: "Daily News App",
+      img: "https://github.com/Abhishek280999/Food_Villa_App/assets/117111036/162d41ea-5f5c-4582-9108-b2a790b79e65",
+      feature:
+        "Daily News  website where you can see all the types of News and read more about that news. Tech-stack  : [HTML,CSS,JavaScript,React Js,Bootstrap] ",
+      Link: "https://github.com/Abhishek280999/News_App.git",
+      Github: "https://github.com/Abhishek280999/News_App.git",
+    },
+    
     {
       name: "Bewakoof.com",
       img: "https://github.com/Abhishek280999/Portfolio_App/assets/117111036/fadb8ce7-0c32-48df-b480-814575975021",
-      feature: "A fool-fleged Frontend Clone of Ecommerce website called Bewakoof.com. Tech-stack  : [HTML,CSS,JS] ",
+      feature: "A fool-fleged Frontend Clone of Ecommerce website called Bewakoof.com. Tech-stack  : [HTML,CSS,Javascript] ",
       Link: "https://bewakoof-e.netlify.app/",
       Github: "https://github.com/Abhishek280999/Bewakoof.con-Ecommerce-project.git",
     },

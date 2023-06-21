@@ -38,6 +38,11 @@ import SkillImg5 from "./assets/img/skills/redux.png";
 import SkillImg6 from "./assets/img/skills/java.png";
 import SkillImg7 from "./assets/img/skills/git.png";
 import SkillImg8 from "./assets/img/skills/sql.png";
+// import SkillImg9 from "./assets/img/skills/bootstrap.png";
+// import SkillImg10 from "./assets/img/skills/tailwind.png";
+
+
+
 
 
 // testimonial images
@@ -193,6 +198,9 @@ export const skills = [
   },
   // {
   //   image: SkillImg9,
+  // },
+  // {
+  //   image: SkillImg10,
   // },
 ];
 
