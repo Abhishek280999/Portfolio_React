@@ -44,6 +44,14 @@ const Projects = () => {
       Link: "https://github.com/Abhishek280999/News_App.git",
       Github: "https://github.com/Abhishek280999/News_App.git",
     },
+    {
+      name: "Quiz  App",
+      img: "https://github.com/Abhishek280999/Quiz_App/assets/117111036/2bb824ef-e91d-47f0-b816-ba23cea7c20c",
+      feature:
+        "All categories Quiz App where you can Take a Mock Quiz. Tech-stack  : [HTML,CSS,JavaScript,React Js,Material UI] ",
+      Link: "https://quiz-app-react-abhishek280999.vercel.app/s",
+      Github: "https://github.com/Abhishek280999/Quiz_App",
+    },
     
     {
       name: "Bewakoof.com",
