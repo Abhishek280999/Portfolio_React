@@ -17,6 +17,7 @@ import Education from "./components/Education";
 const App = () => {
   return (
     <div className="bg-white relative">
+  
       <Header />
       <Hero />
       <About />

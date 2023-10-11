@@ -38,8 +38,9 @@ import SkillImg5 from "./assets/img/skills/redux.png";
 import SkillImg6 from "./assets/img/skills/java.png";
 import SkillImg7 from "./assets/img/skills/git.png";
 import SkillImg8 from "./assets/img/skills/sql.png";
-// import SkillImg9 from "./assets/img/skills/bootstrap.png";
-// import SkillImg10 from "./assets/img/skills/tailwind.png";
+import SkillImg9 from "./assets/img/skills/node.webp";
+import SkillImg10 from "./assets/img/skills/mgdb.png";
+
 
 
 
@@ -196,12 +197,12 @@ export const skills = [
   {
     image: SkillImg8,
   },
-  // {
-  //   image: SkillImg9,
-  // },
-  // {
-  //   image: SkillImg10,
-  // },
+  {
+    image: SkillImg9,
+  },
+  {
+    image: SkillImg10,
+  },
 ];
 
 // services
