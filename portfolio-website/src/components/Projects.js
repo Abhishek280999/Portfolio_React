@@ -22,7 +22,7 @@ const Projects = (
       name: "Portfolio Website",
       img: "https://github.com/Abhishek280999/Portfolio_App/assets/117111036/163b679d-3c8a-43a9-b024-8ce5de6da220",
       feature: "Personal porfolio website where you can see all of my details of my work. Tech-stack  : [HTML,CSS,JavaScript,React Js] ",
-      Link: "https://vaibhav-dev-portfolio.netlify.app/",
+      Link: "https://portfolio-website-abhishek280999.vercel.app/",
       Github: "https://github.com/Abhishek280999/Protfolio.git",
     },
     {
